@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+Hello, My name is Colby 
+Im still somewhat new to Software Engineering but i've already completed one project for a local tatoo shop in my area, although im going to continue adding onto it as i learn more and more languages. Im currently learning JS at the moment to help give some soul to my projects i would love to jump in to Javascript since i know it's a challenging language
+but one of the most popular ones. I think after JS im going to work on a joke replica site of amazon called catazon but im not 100% about it yet ill also probalby try and make a small game at some point. You can ask me about anything the best way is through E-mail: colbycmclaincapraun@gmail.com.
+The only thing id say i really need help with is maybe some sort of mentoring.
 <!--
 **Blackhawk56210/Blackhawk56210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
